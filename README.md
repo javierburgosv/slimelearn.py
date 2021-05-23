@@ -10,7 +10,7 @@ Installing
 
 To install the library:
 ```sh
-pip install slimelearn
+pip install slimelearnpy
 ```
 
 Client Example
