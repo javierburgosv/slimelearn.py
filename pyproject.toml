@@ -1,0 +1,11 @@
+[build-system]
+requires = ["flit_core >=2,<4"]
+build-backend = "flit_core.buildapi"
+
+[tool.flit.metadata]
+module = "slimelearnpy"
+author = "Javier Burgos"
+author-email = "j.b.valdes@hotmail.com"
+home-page = "https://github.com/javierburgosv/slimelearn.py"
+classifiers = [ "License :: OSI Approved :: MIT License",]
+
