@@ -10,7 +10,7 @@ DESCRIPTION:
 ######## SDK ########
 # First we import and load the SlimeLearn SDK to simplify the comunication
 # with the server.
-from slimelearn-py import SlimeLearn
+from slimelearnpy import SlimeLearn
 
 sl = SlimeLearn()
 

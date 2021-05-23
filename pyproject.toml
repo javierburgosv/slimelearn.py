@@ -1,13 +1,13 @@
 [build-system]
 requires = ["flit_core >=2,<4"]
 build-backend = "flit_core.buildapi"
-requires-python = ">= 3.9.1"
-description-file = "README.md"
 
 [tool.flit.metadata]
 module = "slimelearnpy"
 author = "Javier Burgos"
 author-email = "j.b.valdes@hotmail.com"
 home-page = "https://github.com/javierburgosv/slimelearn.py"
+requires-python = ">= 3.9.1"
+description-file = "README.md"
 classifiers = [ "License :: OSI Approved :: MIT License",]
 
