@@ -21,8 +21,7 @@ custom_config = {
     "req": "config",
     "payload": {
         "mode": "jump",
-        "speed": 2,
-        "replay_path": "E:/Users/Javier/Documents/UPM/TFG"
+        "speed": 2
     }
 }
 
