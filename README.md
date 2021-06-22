@@ -1,7 +1,7 @@
 slimelearn.py
 =============
 
-A very easy to use API wrapper for SlimeLearn written in Python.
+A very easy to use API wrapper for [SlimeLearn](https://github.com/javierburgosv/slimelearn) written in Python.
 
 Installing
 ----------
@@ -11,7 +11,7 @@ Installing
 To install the library:
 ```sh
 pip install slimelearnpy
-```
+``` 
 
 Client Example
 -----------
@@ -32,7 +32,6 @@ conf = {
 }
 
 def my_agent(input_data):
-    
     if input_data["player"]["state"] == 'idle':
         sl.jump()
 
